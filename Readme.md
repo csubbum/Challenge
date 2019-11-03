@@ -1,4 +1,4 @@
-# Mediamath challenge
+# Challenge
 
 <br>
 This is a file uploader/query api using golang.
